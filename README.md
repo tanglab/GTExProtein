@@ -10,7 +10,7 @@ The protein meta information file includes 6 columns without header and these 6 
 
 ## 2.2 Run two-step permutation test
 
-Change variable names in Line 11-14 of "run_cispqtl_perm2step.sh" according to the genotype file, the protein abundance file, the covariate information file and the protein meta information file.
+Change variable names in Line 16-19 of "run_cispqtl_perm2step.sh" according to the genotype file, the protein abundance file, the covariate information file and the protein meta information file.
 
 Use "source run_cispqtl_perm2step.sh;" in terminal for running the two-step permutation test.
 
